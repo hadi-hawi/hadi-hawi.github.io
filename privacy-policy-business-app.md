@@ -1,5 +1,5 @@
 Privacy Policy
-Last updated: [Date]
+Last updated: 03/02/2025
 
 Welcome to Appointly! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 
@@ -23,5 +23,4 @@ You can update or delete your account data at any time.
 You can contact us for any privacy-related concerns.
 5. Contact Us
 If you have any questions, contact us at:
-📧 [Your Email]
-
+📧 hadihawi.developer@gmail.com
